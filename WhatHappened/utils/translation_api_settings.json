@@ -1,0 +1,6 @@
+{
+    "url": "https://text-translator2.p.rapidapi.com/translate",
+    "headers": {"content-type": "application/x-www-form-urlencoded",
+	            "X-RapidAPI-Key": "fe86ed624fmsh4ad3769e0e6c7d8p162d94jsnbfb283156150",
+                "X-RapidAPI-Host": "text-translator2.p.rapidapi.com"}
+}

@@ -1,0 +1,6 @@
+{
+    "url": "https://newsapi.org/v2/top-headlines?",
+    "headers": {
+        "X-Api-Key": "070fb12c99524f8f942e389909d82001"
+    }
+}

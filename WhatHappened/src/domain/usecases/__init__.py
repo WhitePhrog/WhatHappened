@@ -1,0 +1,1 @@
+from domain.usecases.get_injection import GetInjection
