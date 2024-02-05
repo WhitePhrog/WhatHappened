@@ -1,2 +1,1 @@
-from domain.groups import AddInventory
-from domain.groups import ViewInventory
+from domain.groups.translate_article import TranslateArticle

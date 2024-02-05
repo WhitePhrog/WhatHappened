@@ -1,0 +1,5 @@
+{
+    "article_factory": "article_factory_newsapi",
+    "fetch_api_settings_factory": "fetch_api_settings_factory_json",
+    "translation_controller": "translation_controller_rapidapi"
+}

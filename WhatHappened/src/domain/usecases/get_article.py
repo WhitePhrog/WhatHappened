@@ -9,11 +9,7 @@ class GetArticle:
         self.article_factory = article_factory
     
     def call(self,
-             title: str,
-             description: str,
-             source: str,
-             url: str,
-             date: str,
-             original_language: str,
+             api_settings,
+             language
     ) -> Article:
-        return self.article_factory.call(title, description, source, url, date, original_language)
+        return self.article_factory.call(api_settings, language)
