@@ -1,8 +1,10 @@
-from domain.models.article import Article
+from domain.models import Article
+from domain.models import ApiSettings
 
 class ArticleFactory:
     def call(
         self,
-        article: Article
+        api_settings: ApiSettings,
+        language: str
     ) -> Article:
         raise NotImplementedError

@@ -1,0 +1,1 @@
+from infrastructure.article_factories.article_factory_newsapi import ArticleFactoryNewsApi

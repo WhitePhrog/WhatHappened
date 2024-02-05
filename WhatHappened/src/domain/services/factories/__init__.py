@@ -1,2 +1,3 @@
 from domain.services.factories.article_factory import ArticleFactory
 from domain.services.factories.fetch_api_settings_factory import FetchApiSettingsFactory
+from domain.services.factories.core_dependency_injection_factory import CoreDependencyInjectionFactory

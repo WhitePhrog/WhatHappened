@@ -1,1 +1,1 @@
-from domain.services.controllers import DatabaseController
+from domain.services.controllers import TranslationController

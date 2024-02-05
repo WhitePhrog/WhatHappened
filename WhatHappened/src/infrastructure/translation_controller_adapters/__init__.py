@@ -1,0 +1,1 @@
+from infrastructure.translation_controller_adapters.translation_controller_rapidapi import TranlationControllerRapidApi

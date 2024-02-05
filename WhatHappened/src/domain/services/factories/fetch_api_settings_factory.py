@@ -1,8 +1,8 @@
-from domain.models.api_settings import ApiSettings
+from domain.models import ApiSettings
 
 class FetchApiSettingsFactory:
     def call(
         self,
-        api_settings: ApiSettings
+        path
     ) -> ApiSettings:
         raise NotImplementedError

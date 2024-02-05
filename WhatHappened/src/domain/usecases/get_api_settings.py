@@ -6,3 +6,5 @@ class GetApiSettings:
         self.fetch_api_settings_factory = fetch_api_settings_factory
         
     def call(self, path) -> ApiSettings:
+        return self.fetch_api_settings_factory.call(path)
+    
